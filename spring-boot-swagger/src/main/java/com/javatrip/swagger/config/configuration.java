@@ -16,13 +16,17 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
  * @Description 配置swagger2生成接口文档
  * @Date 2020-08-28 10:57
  */
-@EnableSwagger2
+
+/**
+ * Swagger3无需调用 @EnableOpenApi 或 @EnableSwagger2 开启Swagger
+ */
+//@EnableSwagger2
 @Configuration
 public class configuration {
 
     @Bean
     public Docket createRestApi(){
-        return new Docket(DocumentationType.SWAGGER_2)
+        return new Docket(DocumentationType.OAS_30)
                 .apiInfo(apiInfo())
                 .select()
                 // 需要生产文档的包配置
