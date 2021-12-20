@@ -21,14 +21,14 @@ Spring Boot 技术栈分享，spring-boot-route包含基础知识、Web开发、
 ## 目录及示例代码
 ### Spring Boot基础知识
 
-- spring-boot-param | [spring-boot-route（一）Controller接收参数的几种方式](https://javatip.cn/archives/66)
-- spring-boot-yml | [spring-boot-route（二）读取配置文件的几种方式](https://javatip.cn/archives/72)
-- spring-boot-file | [spring-boot-route（三）实现多文件上传](https://javatip.cn/archives/74)
-- spring-boot-exception | [spring-boot-route（四）全局异常处理](https://javatip.cn/archives/79)
+- spring-boot-param | [spring-boot-route（一）Controller接收参数的几种方式](https://www.javazhiyin.com/77159.html)
+- spring-boot-yml | [spring-boot-route（二）读取配置文件的几种方式](https://www.javazhiyin.com/77155.html)
+- spring-boot-file | [spring-boot-route（三）实现多文件上传](https://www.javazhiyin.com/77151.html)
+- spring-boot-exception | [spring-boot-route（四）全局异常处理](https://www.javazhiyin.com/77147.html)
 
 ### Spring Boot Web开发
 
-- spring-boot-swagger | [spring-boot-route（五）整合swagger生成接口文档](https://javatip.cn/archives/90)
+- spring-boot-swagger | [spring-boot-route（五）整合swagger生成接口文档](https://www.javazhiyin.com/77139.html)
 - spring-boot-japidocs | [spring-boot-route（六）整合JApiDocs生成接口文档](https://javatip.cn/archives/91)
 
 ### Spring Boot数据访问
