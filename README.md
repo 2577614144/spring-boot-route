@@ -70,4 +70,3 @@ Spring Boot 技术栈分享，spring-boot-route包含基础知识、Web开发、
 - 暂无示例代码| [spring-boot-route（二十六）Spring Boot整合webSocket](https://javatip.cn/archives/255)
 
 ## 我的公众号
-![Java旅途](https://img.javatip.cn/20210403002455.jpg)
